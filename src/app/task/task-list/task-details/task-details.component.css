@@ -1,0 +1,24 @@
+.box{
+  border: 1px solid grey;
+  width: 700px;
+  height: 150px;
+  margin-top: 10px;
+}
+
+.buttonbox{
+  width: 500px;
+  height: 70px;
+  margin: 15px;
+}
+
+button{
+  margin: 5px;
+}
+
+.complete{
+  border: 1px solid green;
+}
+
+.incomplete{
+  border: 1px solid red;
+}
